@@ -1,0 +1,21 @@
+body {
+	background-image: url('http://i.imgur.com/SePfuAN.jpg');
+	  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  overflow: hidden;
+}
+
+#logo {
+	display: block;
+	margin: 0 auto;
+	padding-top: 40px;
+}
+
+#icons {
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 180px;
+}
